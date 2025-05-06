@@ -44,17 +44,17 @@ Jika pengguna menekan tombol **"Daftar"**, maka aplikasi akan:
 ## 📸 Cuplikan 
 
 ```markdown
-Berikut adalah halaman Home untuk aplikasi ini:
-![image](https://github.com/user-attachments/assets/559ebc5a-9142-4671-9072-f5dad7defb14)
+#Berikut adalah halaman Home untuk aplikasi ini:
+![image] (https://github.com/user-attachments/assets/559ebc5a-9142-4671-9072-f5dad7defb14)
 
-Contoh Pertemuan 3:
+#Contoh Pertemuan 3:
 ![image](https://github.com/user-attachments/assets/b60442fa-1368-4a4c-a76d-7e41180184e1)
 ![image](https://github.com/user-attachments/assets/0bf4661a-7003-4768-830f-257cad324616)
 
-Latihan Pertemuan 3:
+#Latihan Pertemuan 3:
 ![image](https://github.com/user-attachments/assets/70bc7fc2-aab1-4f69-a28a-1fa6f151b719)
 
-Tugas Pertemuan 3:
+#Tugas Pertemuan 3:
 ![image](https://github.com/user-attachments/assets/299371d3-6465-4838-b981-ea84ec04b8c1)
 Hasil Outputnya :
 ![image](https://github.com/user-attachments/assets/2885d2fe-d3fa-4a6e-81be-8c8746598326)
