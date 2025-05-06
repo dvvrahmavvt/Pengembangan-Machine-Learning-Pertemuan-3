@@ -43,12 +43,12 @@ Jika pengguna menekan tombol **"Daftar"**, maka aplikasi akan:
 
 ## 📸 Cuplikan 
 
-```markdown
 #Berikut adalah halaman Home untuk aplikasi ini:
 ![image] (https://github.com/user-attachments/assets/559ebc5a-9142-4671-9072-f5dad7defb14)
 
-#Contoh Pertemuan 3:
-![image](https://github.com/user-attachments/assets/b60442fa-1368-4a4c-a76d-7e41180184e1)
+Contoh Pertemuan 3:
+![Formulir Pendaftaran](/content/Pengembangan_Machine_Learning3/images/Screenshot 2025-05-06 233415.png)
+
 ![image](https://github.com/user-attachments/assets/0bf4661a-7003-4768-830f-257cad324616)
 
 #Latihan Pertemuan 3:
